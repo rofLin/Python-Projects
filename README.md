@@ -1,2 +1,2 @@
 # Python-Projects
-I would upload my projects and Python code here.
+Here I will share some projects that I have implemented using Python.
